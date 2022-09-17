@@ -1,5 +1,5 @@
 ---
-title: Wireshark Captures... Wow!
+title: Wireshark Captures
 date: 2022-04-06 9:15:00 -500
 categories:
   [network engineering, information technology, wireshark, cybersecurity]
