@@ -1,6 +1,6 @@
 ---
-title: The Great Reset
-date: 2021-12-29 3:22:00 -500
+title: First Day of School
+date: 2022-01-29 5:22:00 -500
 categories: [network engineering, IT]
 tags: [networking, IT] # TAG names should all be lowercase
 ---
