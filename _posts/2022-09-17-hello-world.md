@@ -7,6 +7,6 @@ tags: [networking, IT] # TAG names should all be lowercase
 
 #Hello from the Network side!
 
-![entry001 header image](/_posts/_header_images/entry001.png)
+![entry001 header image](/assets/_header_images/entry001.png)
 
 This is a test of the emergency broadcast system
