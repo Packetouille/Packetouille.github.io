@@ -1,11 +1,11 @@
 ---
-title: First Day of School
-date: 2022-01-29 5:22:00 -500
-categories: [network engineering, IT]
-tags: [networking, IT] # TAG names should all be lowercase
+title: Self Reflection
+date: 2022-02-17 8:22:00 -500
+categories: [network engineering, information technology, mental health]
+tags: [networking, mental health] # TAG names should all be lowercase
 ---
 
-![entry002 header image](/assets/images/entry002.png)
+![entry003 header image](/assets/images/entry003.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas pharetra. Placerat vestibulum lectus mauris ultrices eros in cursus turpis massa. Vulputate ut pharetra sit amet aliquam. Condimentum vitae sapien pellentesque habitant morbi tristique senectus. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit. Augue lacus viverra vitae congue eu consequat ac felis. Leo vel orci porta non. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Interdum varius sit amet mattis vulputate enim. Enim eu turpis egestas pretium. Enim sit amet venenatis urna cursus eget nunc. Ultrices tincidunt arcu non sodales neque sodales ut. Lacus sed viverra tellus in hac habitasse platea. Adipiscing diam donec adipiscing tristique. Lectus sit amet est placerat in.
 
