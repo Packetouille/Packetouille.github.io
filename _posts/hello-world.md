@@ -9,4 +9,4 @@ tags: [networking, IT] # TAG names should all be lowercase
 
 ![entry001 header image](/_header_images/entry001.png)
 
-This is a test of the emergency broadcast _system_. **Test**
+This is a test of the emergency broadcast system
