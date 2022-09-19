@@ -21,9 +21,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Naughty Bytes Blog # the main title
+title: NaughtyByteNature # the main title
 
-tagline: A Network Engineer's Log # it will display as the sub-title
+tagline: Mission logs from an aspiring Network Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Mission Logs from an aspiring Network Engineer
@@ -83,7 +83,7 @@ theme_mode: dark # [light/dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: <img src="_site/assets/images/avatar.png">
+avatar: "/assets/images/avatar.png"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
