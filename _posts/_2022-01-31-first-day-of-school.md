@@ -1,11 +1,11 @@
 ---
-title: Self Reflection
-date: 2022-02-17 8:22:00 -500
-categories: [network engineering, information technology, mental health]
-tags: [networking, mental health] # TAG names should all be lowercase
+title: First Day of School
+date: 2022-01-31 5:22:00 -500
+categories: [network engineering, IT]
+tags: [networking, IT] # TAG names should all be lowercase
 ---
 
-![entry003 header image](/assets/images/entry003.png)
+![entry002 header image](/assets/images/entry002.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas pharetra. Placerat vestibulum lectus mauris ultrices eros in cursus turpis massa. Vulputate ut pharetra sit amet aliquam. Condimentum vitae sapien pellentesque habitant morbi tristique senectus. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit. Augue lacus viverra vitae congue eu consequat ac felis. Leo vel orci porta non. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Interdum varius sit amet mattis vulputate enim. Enim eu turpis egestas pretium. Enim sit amet venenatis urna cursus eget nunc. Ultrices tincidunt arcu non sodales neque sodales ut. Lacus sed viverra tellus in hac habitasse platea. Adipiscing diam donec adipiscing tristique. Lectus sit amet est placerat in.
 
@@ -18,3 +18,5 @@ Sem et tortor consequat id. Amet facilisis magna etiam tempor orci. Elementum te
 Morbi tincidunt augue interdum velit euismod in pellentesque. Id semper risus in hendrerit gravida rutrum quisque non tellus. Dictum fusce ut placerat orci nulla pellentesque dignissim enim sit. At risus viverra adipiscing at. Dignissim diam quis enim lobortis scelerisque. Morbi leo urna molestie at elementum eu facilisis sed odio. Vel turpis nunc eget lorem dolor sed viverra. Pulvinar mattis nunc sed blandit libero volutpat sed cras. Sed odio morbi quis commodo. Commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Laoreet sit amet cursus sit. Vel orci porta non pulvinar neque. Elit ut aliquam purus sit. Dictum sit amet justo donec enim diam vulputate ut. Cras ornare arcu dui vivamus arcu felis.
 
 Morbi tincidunt augue interdum velit euismod in pellentesque. Id semper risus in hendrerit gravida rutrum quisque non tellus. Dictum fusce ut placerat orci nulla pellentesque dignissim enim sit. At risus viverra adipiscing at. Dignissim diam quis enim lobortis scelerisque. Morbi leo urna molestie at elementum eu facilisis sed odio. Vel turpis nunc eget lorem dolor sed viverra. Pulvinar mattis nunc sed blandit libero volutpat sed cras. Sed odio morbi quis commodo. Commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Laoreet sit amet cursus sit. Vel orci porta non pulvinar neque. Elit ut aliquam purus sit. Dictum sit amet justo donec enim diam vulputate ut. Cras ornare arcu dui vivamus arcu felis.
+
+![end of transmission footer image](/assets/images/end-transmission.png)
