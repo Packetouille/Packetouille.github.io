@@ -1,22 +1,12 @@
 ---
 title: First Day of School
 date: 2022-01-31 5:22:00 -500
-categories: [network engineering, IT]
-tags: [networking, IT] # TAG names should all be lowercase
+categories: [academics]
+tags: [academics] # TAG names should all be lowercase
 ---
 
 ![entry002 header image](/assets/images/entry002.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas maecenas pharetra. Placerat vestibulum lectus mauris ultrices eros in cursus turpis massa. Vulputate ut pharetra sit amet aliquam. Condimentum vitae sapien pellentesque habitant morbi tristique senectus. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit. Augue lacus viverra vitae congue eu consequat ac felis. Leo vel orci porta non. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Interdum varius sit amet mattis vulputate enim. Enim eu turpis egestas pretium. Enim sit amet venenatis urna cursus eget nunc. Ultrices tincidunt arcu non sodales neque sodales ut. Lacus sed viverra tellus in hac habitasse platea. Adipiscing diam donec adipiscing tristique. Lectus sit amet est placerat in.
-
-Iaculis eu non diam phasellus vestibulum lorem sed risus. Sodales ut eu sem integer. Luctus venenatis lectus magna fringilla urna. In eu mi bibendum neque egestas congue. In iaculis nunc sed augue lacus. Purus non enim praesent elementum facilisis. Sed elementum tempus egestas sed. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. In hendrerit gravida rutrum quisque non tellus orci ac. In tellus integer feugiat scelerisque varius morbi enim nunc. Consectetur purus ut faucibus pulvinar elementum integer enim neque. Elementum eu facilisis sed odio. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Platea dictumst quisque sagittis purus sit.
-
-Aliquam eleifend mi in nulla posuere sollicitudin aliquam. Iaculis nunc sed augue lacus. Laoreet suspendisse interdum consectetur libero id. Enim nec dui nunc mattis enim ut tellus. Tempus urna et pharetra pharetra massa. Rhoncus mattis rhoncus urna neque viverra justo nec. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et. Semper risus in hendrerit gravida. Lacus sed viverra tellus in hac habitasse platea dictumst. Ornare arcu odio ut sem nulla pharetra. Velit euismod in pellentesque massa placerat. Lorem mollis aliquam ut porttitor. Habitant morbi tristique senectus et netus.
-
-Sem et tortor consequat id. Amet facilisis magna etiam tempor orci. Elementum tempus egestas sed sed risus. Porttitor rhoncus dolor purus non enim. Diam donec adipiscing tristique risus nec feugiat in fermentum posuere. Mi ipsum faucibus vitae aliquet. Quis imperdiet massa tincidunt nunc pulvinar. Facilisis sed odio morbi quis commodo odio. Pulvinar etiam non quam lacus suspendisse faucibus interdum. Penatibus et magnis dis parturient montes nascetur ridiculus. Lorem donec massa sapien faucibus. Sed egestas egestas fringilla phasellus faucibus. Semper auctor neque vitae tempus quam pellentesque nec nam aliquam. A pellentesque sit amet porttitor eget dolor morbi non. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra accumsan.
-
-Morbi tincidunt augue interdum velit euismod in pellentesque. Id semper risus in hendrerit gravida rutrum quisque non tellus. Dictum fusce ut placerat orci nulla pellentesque dignissim enim sit. At risus viverra adipiscing at. Dignissim diam quis enim lobortis scelerisque. Morbi leo urna molestie at elementum eu facilisis sed odio. Vel turpis nunc eget lorem dolor sed viverra. Pulvinar mattis nunc sed blandit libero volutpat sed cras. Sed odio morbi quis commodo. Commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Laoreet sit amet cursus sit. Vel orci porta non pulvinar neque. Elit ut aliquam purus sit. Dictum sit amet justo donec enim diam vulputate ut. Cras ornare arcu dui vivamus arcu felis.
-
-Morbi tincidunt augue interdum velit euismod in pellentesque. Id semper risus in hendrerit gravida rutrum quisque non tellus. Dictum fusce ut placerat orci nulla pellentesque dignissim enim sit. At risus viverra adipiscing at. Dignissim diam quis enim lobortis scelerisque. Morbi leo urna molestie at elementum eu facilisis sed odio. Vel turpis nunc eget lorem dolor sed viverra. Pulvinar mattis nunc sed blandit libero volutpat sed cras. Sed odio morbi quis commodo. Commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Laoreet sit amet cursus sit. Vel orci porta non pulvinar neque. Elit ut aliquam purus sit. Dictum sit amet justo donec enim diam vulputate ut. Cras ornare arcu dui vivamus arcu felis.
+Log in progress...
 
 ![end of transmission footer image](/assets/images/end-transmission.png)
