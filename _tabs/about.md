@@ -6,7 +6,7 @@ order: 4
 
 Greetings, and welcome to an inside look at my bumpy voyage in pursuit of a higher calling.
 
-My name is Andres Londono, and I am currently a full-time employee in the film exhibition industry, student, and family man. In December 2021 (on my thirty-eight birthday) I made th
+My name is Andres Londono, and I am currently a full-time employee in the film exhibition industry, student, and family man. In December 2021 (on my thirty-eighth birthday) I made the decision to set in motion the complete derailing of my career because, as it turns out, I believe that stability is overrated…
 
 In January 2022, I returned to school after a _very_ long hiatus. While in my first semester back as a Computer Science major, I joined the Cyber Defense Club, and within the first few meetings, an overview of Wireshark led me to find the passion that I had yet to discover. Watching network traffic flowing, for me, was love at first sight. Since then, my mission has been clear; I _will_ become a Network Engineer.
 
