@@ -21,7 +21,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Routatouille # the main title
+title: Packetouille # the main title
 
 tagline: Mission logs from an aspiring Network Engineer # it will display as the sub-title
 
@@ -29,13 +29,13 @@ description: >- # used by seo meta and the atom feed
   Mission Logs from an aspiring Network Engineer
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://alondo1.github.io"
+url: "https://packetouille.github.io"
 
 github:
-  username: alondo1 # change to your github username
+  username: Packetouille # change to your github username
 
 twitter:
-  username: ltbohmy # change to your twitter username
+  username: Packetouille # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,8 +44,8 @@ social:
   email: alondo1@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/routatouille # change to your twitter homepage
-    - https://github.com/alondo1 # change to your github homepage
+    - https://twitter.com/packetouille # change to your twitter homepage
+    - https://github.com/packetouille # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
