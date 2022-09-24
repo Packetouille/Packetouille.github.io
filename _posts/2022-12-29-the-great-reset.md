@@ -1,6 +1,6 @@
 ---
 title: The Great Reset
-date: 2021-12-29 3:22:00 -500
+date: 2021-12-29 22:17:27 -500
 categories: [education, career]
 tags: [academics, career] # TAG names should all be lowercase
 ---
