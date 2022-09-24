@@ -5,8 +5,8 @@ categories: [education, career]
 tags: [academics, career] # TAG names should all be lowercase
 ---
 
-[//] # : ![entry003 header image](/assets/images/entry003.png)
+<!--- ![entry003 header image](/assets/images/entry003.png) -->
 
 ... Upload in progress
 
-[//] # : ![end of transmission footer image](/assets/images/end-transmission.png)
+<!--- ![end of transmission footer image](/assets/images/end-transmission.png) -->
