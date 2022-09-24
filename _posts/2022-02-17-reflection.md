@@ -5,4 +5,4 @@ categories: [education, career]
 tags: [academics, career] # TAG names should all be lowercase
 ---
 
-... Upload in progress
+uploading
