@@ -5,7 +5,7 @@ categories: [education]
 tags: [academics] # TAG names should all be lowercase
 ---
 
-![entry001 header image](/assets/images/entry002.png)
+![entry001 header image](/assets/img/entry002.png)
 
 I sat through my first class in fifteen years tonight! Even though it was a three-hour class on a Monday night, I spent the better part of my workday very excited. It was the feeling you got as a kid before you got on a rollercoaster (or whatever ride you found fun.) I’m very proud to say that I was the first one in the classroom. I had the _whole_ room to myself for twenty minutes before I realized why. After I grabbed my stuff and head next door, I grabbed the only seat that was available in the front-left corner of the class, which was fine by me. I set my stuff down, powered on the lab computer just in case we’d need it, and was ready to start taking some notes for the next three hours.
 
@@ -17,4 +17,4 @@ The most challenging part of the night happened towards the end of the class whe
 
 All in all, I thoroughly enjoyed tonight’s experience. I will keep this log entry short as it is currently almost midnight, and I have an 8am Intro to Cybersecurity class followed by work. This is Andres Londoño, student, signing off to get my jammies on and some well-earned shuteye.
 
-![end of transmission footer image](/assets/images/end-transmission.png)
+![end of transmission footer image](/assets/img/end-transmission.png)

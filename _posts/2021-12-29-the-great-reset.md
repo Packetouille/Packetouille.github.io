@@ -5,7 +5,7 @@ categories: [education, career]
 tags: [academics, career] # TAG names should all be lowercase
 ---
 
-![entry001 header image](/assets/images/entry001.png)
+![entry001 header image](/assets/img/entry001.png)
 
 I’ve made two big decisions today! I will be returning to school to finish my bachelor's degree, and I have begun the countdown to my retirement from the film exhibition industry. There’s a lot to unpack here, but I’ll try to stick to the “abridged” version for this log. My academic career is quite the ride. From a High School drop out to my senior year studying Computer Science… to a fifteen-year hiatus, and back to finishing that senior year. In a future log, I will reflect deeper on that story. For now, I’m just very excited to have the opportunity to continue without having to go through the gauntlet of Calculus courses all over again!
 
@@ -32,4 +32,4 @@ So, **what’s with these logs?** I began writing this as a private journal to m
 
 I hope that you’ve enjoyed reading a little bit about my academic back story. If you want to learn a little more about what sparked this journey, please check out my About page.
 
-![end of transmission footer image](/assets/images/end-transmission.png)
+![end of transmission footer image](/assets/img/end-transmission.png)
